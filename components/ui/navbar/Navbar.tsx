@@ -29,7 +29,7 @@ export const Navbar = () => {
             P
           </Text>
           <Text color="white" h3>
-            ókemon
+            ókemon!
           </Text>
         </Link>
       </NextLink>
